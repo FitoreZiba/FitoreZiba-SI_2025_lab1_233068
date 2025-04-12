@@ -1,0 +1,16 @@
+
+Ги следев чекорите еден по еден. Многу добро разбрав како да влезам во креираните гранки со исходот, како да ја сменам датотеката и да ја обврзам.
+За да ја спојам гранката со мајсторот, морав прво да се повлечам од потеклото, потоа да отидам до гранката и да ги спојам. Немав многу потешкотии при спојување на гранката со мајсторот. Немав конфликти.
+Откако ги создадов гранките, морав да влезам во секоја од нив да го сменам кодот и да ги обврзам.
+
+git fetch origin - за да го ажурирам локалното repo со remote repo.
+git checkout 1-remove-a-task-by-name -оваа команда се користи за влез во гранката
+git add SI2025Lab1Main.java 
+git commit -m "Implement removeTaskByName method" - commit со порака.
+git push origin 1-remove-a-task-by-name- сихронизација на локалното repo to remote 
+
+овие се git командите за merge на последиот commit
+git checkout master
+git pull origin master  
+git merge  1-remove-a-task-by-name 
+git push 

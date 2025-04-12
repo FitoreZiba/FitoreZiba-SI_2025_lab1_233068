@@ -1,2 +1,15 @@
+*   47715dd Merge branch 'master' of https://github.com/FitoreZiba/FitoreZiba-SI_2025_lab1_233068
+|\  
+| *   9d9f552 Merge pull request #11 from FitoreZiba/2-find-all-completed-tasks
+| |\  
+| | * 56c46b2 Implement findAllCompletedTasks method
+| * |   3d33674 Merge pull request #12 from FitoreZiba/3-list-tasks-sorted-by-name
+| |\ \  
+| | |/  
+| |/|   
+| | * 6dba359 Implement listTasksSortedByName method
+| |/  
+* / 2186ae3 Implement removeTaskByName method
+|/  
 * 46fdb98 Add starter code
 * 458a67a Initial commit
